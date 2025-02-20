@@ -7,7 +7,7 @@ This bot allows you to send messages to Telegram channels where you have admin r
 ## Run bot
 To run the bot, follow these steps:
 ```bash
-git clone && cd tpost_bot && npm i
+git clone https://github.com/rezanoohi/tpost_bot.git && cd tpost_bot && npm i
 ```
 
 Then, enter the bot token. After that, you can run the bot using: ``node main.js``
